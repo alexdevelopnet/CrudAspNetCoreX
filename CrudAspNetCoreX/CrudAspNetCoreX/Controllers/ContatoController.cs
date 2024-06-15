@@ -45,12 +45,21 @@ namespace CrudAspNetCoreX.Controllers
             }
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Editar(int id) 
+        {
+            ContatoModel contato = _contatoRepositorio.BuscarPorID(id);
+            return View(contato);
+        }
+
         [HttpPost]
         public IActionResult Editar(ContatoModel contato)
         {
             try
             {
-                if (!ModelState.IsValid)
+
+                if (ModelState.IsValid)
                 {
                     contato = _contatoRepositorio.Atualizar(contato);
                     TempData["MensagemSucesso"] = "Contato alterado com sucesso!";

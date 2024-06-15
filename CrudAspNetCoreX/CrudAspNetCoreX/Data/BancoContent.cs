@@ -12,7 +12,7 @@ namespace CrudAspNetCoreX.Data
         }
 
         public DbSet<ContatoModel> Contatos { get; set; }
-        public DbSet<UsuarioModel> Usuarios { get; set; }
+      //  public DbSet<UsuarioModel> Usuarios { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

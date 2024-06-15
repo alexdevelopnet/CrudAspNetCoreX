@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudAspNetCoreX")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7cdee616e5ab90a10a71e9ad8c6f2046753ae35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aa314e0c82ccadc2c989060d455bcdef8dea7fe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudAspNetCoreX.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
