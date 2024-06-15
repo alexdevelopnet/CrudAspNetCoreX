@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Aulas\\2024\\ASPNET\\CrudAspNetCoreX\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3852F1E8-09BA-4388-95EF-5DCD45D313C1}|CrudAspNetCoreX\\CrudAspNetCoreX.csproj|d:\\aulas\\2024\\aspnet\\crudaspnetcorex\\crudaspnetcorex\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3852F1E8-09BA-4388-95EF-5DCD45D313C1}|CrudAspNetCoreX\\CrudAspNetCoreX.csproj|solutionrelative:crudaspnetcorex\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3852F1E8-09BA-4388-95EF-5DCD45D313C1}|CrudAspNetCoreX\\CrudAspNetCoreX.csproj|d:\\aulas\\2024\\aspnet\\crudaspnetcorex\\crudaspnetcorex\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3852F1E8-09BA-4388-95EF-5DCD45D313C1}|CrudAspNetCoreX\\CrudAspNetCoreX.csproj|solutionrelative:crudaspnetcorex\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,6 +71,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Aulas\\2024\\ASPNET\\CrudAspNetCoreX\\CrudAspNetCoreX\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CrudAspNetCoreX\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Aulas\\2024\\ASPNET\\CrudAspNetCoreX\\CrudAspNetCoreX\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CrudAspNetCoreX\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-15T18:08:23.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Aulas\\2024\\ASPNET\\CrudAspNetCoreX\\CrudAspNetCoreX\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudAspNetCoreX\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "D:\\Aulas\\2024\\ASPNET\\CrudAspNetCoreX\\CrudAspNetCoreX\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "CrudAspNetCoreX\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T18:07:38.164Z"
             }
           ]
         }
